@@ -1,0 +1,17 @@
+name: AsSb
+channels:
+- defaults
+- conda-forge
+- bioconda
+dependencies:
+- snakemake
+- fastp ==0.20.0
+- megahit ==1.1.2
+- bowtie2 ==2.4.5
+- prodigal ==2.6.3
+- samtools ==1.9
+- subread ==1.5.2
+- seqtk
+- biopython
+- hmmer ==3.2.1
+- pplacer ==1.1.alpha19
