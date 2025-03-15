@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+#正常直接运行的版本
 INPUT=$1
 
 mkdir ${INPUT}_outputs

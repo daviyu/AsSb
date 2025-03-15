@@ -1,0 +1,55 @@
+>sp|P74312|ARREH_SYNY3 NADPH-dependent quinone reductase ArsH OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=arsH PE=1 SV=1
+-------------------------------MTDFN---------------------HPP
+-RILFLYGSLRERS-------YSR----------LLAEEA--GRIITTMGAETKFFDPRE
+LPLRGQVLDS---HP-------------------KVQELLELSQWSEGQVWSS-------
+---------------------------------------------------------PEM
+HGNITGIL-----------------------------------------------KNQID
+WI------------------------------PLE---------------------IGSI
+R-------PT---QGRTL-----------AVMQVSGGSQSFNAV----NTMRILG-----
+-----------------RWMRMFTIPNQSSVAKAYQ---EFHEDGT--------------
+-------------MKDS----------PYRDRVVDVMEELYKFTLLLRDKVDYLTDRHSE
+RKA-------KVNTDG--------------------------------
+>sp|B7J950|ARREH_ACIF2 NADPH-dependent FMN reductase ArsH OS=Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) OX=243159 GN=arsH PE=1 SV=1
+MS-----------------GNLPNTDDVLLQVPDVRCL----------RSAAET--DHPP
+-RILLLYGSNRECS-------YSR----------LLTLEA--ERLLRYFGAETRVFHPTG
+LPLPDDAPVT---HP-------------------KVVELQELVEWSEGQVWCS-------
+---------------------------------------------------------PER
+HGAMTGVF-----------------------------------------------KSQVD
+WI------------------------------PLN---------------------SGAI
+R-------PT---QGKTL-----------ALMQVCGGSQSFNAV----NQMRILG-----
+-----------------RWLRMLTIPNQSSVPKAFL---EFDDGGR--------------
+-------------MKPS----------AYYDRVVDVMEELMKFTLLTRGNSDYLVDRYSE
+RKESAEELSRRVNLQNL-------------------------------
+>sp|Q92R45|ARREH_RHIME NADPH-dependent FMN reductase ArsH OS=Rhizobium meliloti (strain 1021) OX=266834 GN=arsH PE=1 SV=1
+MS------------DDDSSHDLPAANLQQLRLPDSASL----------RPAFST---HRP
+-RILILYGSLRTVS-------YSR----------LLAEEA--RRLLEFFGAEVKVFDPSG
+LPLPDAAPVS---HP-------------------KVQELRELSIWSEGQVWVS-------
+---------------------------------------------------------PER
+HGAMTGIM-----------------------------------------------KAQID
+WI------------------------------PLS---------------------TGSI
+R-------PT---QGKTL-----------AVMQVSGGSQSFNAV----NQMRILG-----
+-----------------RWMRMITIPNQSSVAKAFQ---EFDANGR--------------
+-------------MKPS----------SYYDRVVDVMEELVKFTLLTRDCSAYLTDRYSE
+RKESAAELEHRVTLKSV-------------------------------
+>sp|Q7UC03|ARREH_SHIFL NADPH-dependent FMN reductase ArsH OS=Shigella flexneri OX=623 GN=arsH PE=1 SV=1
+MR--------------------------LRHLSDPDSLPALDKSFAIERPALGLAPDAPP
+VRILLLYGSLRARS-------FSR----------LAVEEA--ARLLQFFGAETRIFDPSD
+LPLPDQVQSDD--HP-------------------AVKELRALSEWSEGQVWCS-------
+---------------------------------------------------------PER
+HGQITSVM-----------------------------------------------KAQID
+HL------------------------------PLE---------------------MAGI
+R-------PT---QGRTL-----------AVMQVSGGSQSFNAV----NTLRLLG-----
+-----------------RWMRMFTIPNQSSIAKAFQ---EFDAAGR--------------
+-------------MKPS----------PYYDRIADVMEELVRFTALVRPHREALTDRYSE
+RKAAGHVIDEATDLSSIAIAP--QP----------------LPESETS
+>sp|Q5FYA8|ARSH_HUMAN Arylsulfatase H OS=Homo sapiens OX=9606 GN=ARSH PE=2 SV=1
+MTRNARPNIVLLMADDLGVGDLCCYGNNSVSTPNIDRLASEGVRLTQHLAAASM--CTPS
+-RAAFLTGRYPIRSGMVSAYNLNRAFTWLGGSGGLPTNETTFAKLLQHRGYRTGLIGKWH
+LGLSCASRNDHCYHPLNHGFHYFYGVPFGLLSDCQASKTPELHRWLRIKLWISTVALALV
+PFLLLIPKFARWFSVPWKVIFVFALLAFLFFTSWYSSYGFTRRWNCILMRNHEIIQQPMK
+EEKVASLMLKEALAFIERYKREPFLLFFSFLHVHTPLISKKKFVGRSKYGRYGDNVEEMD
+WMVGKILDALDQERLANHTLVYFTSDNGGHLEPLDGAVQLGGWNGIYKGGKGMGGWEGGI
+RVPGIFRWPSVLEAGRVINEPTSLMDIYPTLSYIGGGILSQDRVIDGQNLMPLLEGRASH
+SDHEFLFHYCGVYLHTVRWHQ----KDCATVWKAHYVTPKFYPEGTGACYGSGICSCSGD
+VTYHDPPLLFDISRDPSEALPLNPDNEPLFDSVIKKMEAAIR-----------------E
+HRRTLTPVPQQFSVFNTIWKPWLQPCCGTFPFCGCDKEDDILPMA--P

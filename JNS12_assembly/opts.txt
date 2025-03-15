@@ -1,0 +1,13 @@
+-1
+JNS12_P1.fastq
+-2
+JNS12_P2.fastq
+-o
+JNS12_assembly
+-t
+18
+-m
+0.9
+--k-step
+10
+MEGAHIT_TEMP_DIR: JNS12_assembly/tmp/
